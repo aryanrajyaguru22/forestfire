@@ -1,0 +1,16 @@
+ipykernel
+jupyterlab
+numpy
+pandas
+scikit-learn
+scipy
+matplotlib
+seaborn
+python-csv
+flask 
+streamlit
+requests
+beautifulsoup4
+flask-cors
+flask-sqlalchemy
+jsonify
